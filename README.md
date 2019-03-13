@@ -1,4 +1,6 @@
 # Simply Deferred
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsudhirj%2Fsimply-deferred.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsudhirj%2Fsimply-deferred?ref=badge_shield)
+
 
 ### jQuery-like Deferred API for Node and the browser
 
@@ -59,3 +61,7 @@ Simply Deffered also acts as a plugin to [Zepto](http://zeptojs.com/). The absen
 * Wraps `$.ajax` to return a `promise`, which has only the following methods: `state()`, `done()`, `fail()` and `always()`. The arguments passed to the `done` and `fail` callbacks are the same ones passed to the `success` and `error` options.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsudhirj%2Fsimply-deferred.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsudhirj%2Fsimply-deferred?ref=badge_large)
